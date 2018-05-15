@@ -1,4 +1,4 @@
-# hello-world
-My first repository
+# Practicas-EC
+En este repositorio tengo subidas mis prácticas de la asignatura Estructuras de Computadores, de Segundo Curso del DGIIM, asignatura que impartí el curso 2018/2019
 
-Bueno pues me acabo de registrar en github y estoy intentando saber cómo funciona la plataforma
+Espero que pueda servir de ayuda ;)
