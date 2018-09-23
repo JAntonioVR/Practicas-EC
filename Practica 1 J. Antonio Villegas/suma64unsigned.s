@@ -44,3 +44,8 @@ bucle:									#Bucle usado para hacer la suma.
 	pop %esi							#Se le hace un pop a %esi para recuperar el valor que perdió al hacerle el 
 									#push.
 	ret								#Retorno de la función
+
+	#################################
+	###Juan Antonio Villegas Recio###
+	########Octubre de 2017##########
+	#################################
