@@ -56,3 +56,8 @@ bucle:									#Bucle usado para hacer la suma.
 	pop %ebp							#Se le hace un pop a %ebp para recuperar su valor antes de ser llamado por
 									#función.
 	ret								#Retorno de la función
+	
+	#################################
+	###Juan Antonio Villegas Recio###
+	########Octubre de 2017##########
+	#################################
